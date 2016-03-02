@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">First</string>
+    <string name="app_name">Home Security</string>
+    <string name="FirstString">Waddup yo</string>
 </resources>
